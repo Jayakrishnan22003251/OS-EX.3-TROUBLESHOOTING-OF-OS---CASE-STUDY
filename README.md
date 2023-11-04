@@ -99,4 +99,5 @@ STEP-15:Reinstall Operating system As a last resort, you may need to reinstall t
 ![15](https://github.com/Divya110205/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/119404855/39f99ff4-4a64-413f-9366-8582ca42761e)
 
 RESULT:
+
 The Troubleshooting for the Operating System has been successfully done.
